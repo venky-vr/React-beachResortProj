@@ -80,6 +80,7 @@ export default  class RoomProvider extends Component {
     filterRooms = () =>{
         let {
             rooms,
+            kkkk,
             type,
             capacity,
             price,
